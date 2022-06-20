@@ -1,0 +1,32 @@
+git config --global user.name	***
+git config --global user.email	***
+git status	查看状态
+git commit -m '备注'	提交信息
+git commit -am '备注'	修改并提交
+git reflog	查看日志
+git reset --hard 版本号***	切换到版本号
+
+git init	初始化
+
+git branch -v	查看分支
+git branch ***	创建分支
+git branch -d ***	删除分支
+git branch -m *** ***	重命名分支
+git checkout ***	切换分支
+git merge ***	合并分支
+
+git remote -v	查看别名
+git remote add 别名	github地址	创建远程链接
+
+
+git push 别名 分支名	推送GitHub
+git pull 别名 分支名	拉取GitHub
+git clone 网址地址		克隆项目
+
+ssh-keygen -t rsa -C 1256037705@qq.com
+
+
+
+
+
+
